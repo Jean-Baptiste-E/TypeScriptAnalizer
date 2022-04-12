@@ -27,7 +27,7 @@ After completion you will find a ```.csv``` file in your image folder containing
 
 ## Visualizations
 
-At the moment only one visualization is available using [Roassal](http://agilevisualization.com/). It allows you to see every class in your project and tehir inheritance tree. The size of each circle represents the size of each class in terms of number of methods. Finaly red classes have been detected as god classes :
+At the moment only one visualization is available using [Roassal](http://agilevisualization.com/). It allows you to see every class in your project and their inheritance tree. The size of each circle represents the size of each class in terms of number of methods. Finaly red classes have been detected as god classes :
 ![Visualization example](https://user-images.githubusercontent.com/61498428/163013315-420f27a1-c327-495b-85eb-bd5ca8f49d08.png)
 
 To use this tool open a Moose Playground and type :
