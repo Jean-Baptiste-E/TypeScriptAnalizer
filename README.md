@@ -15,6 +15,7 @@ This Script relies heavily on the [FamixTypeScript](https://github.com/Arezoo-Na
 ## Importing in image 
 Please use Iceberg to import it in your image :
 Iceberg -> Add -> Clone from github.com -> Onwer name : Jean-Baptiste-E; Project Name : TypeScriptAnalizer.
+Be sure to choose the master branch in remote and do not forget to load the package. 
 
 ## Conducting an analysis
 Analizing prjects first require you to have genereated the JSON files for your projetcs using the [FamixTypeScriptImporter](https://github.com/Arezoo-Nasr/FamixTypeScriptImporter).
